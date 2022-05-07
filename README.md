@@ -18,7 +18,7 @@
 
 * Run 04-Apply-med7-on-Clinical-Notes.ipynb to extract medical entities.
 
-* Download pretrained embeddings into embeddings folder via https://github.com/kexinhuang12345/clinicalBERT.
+* Download pretrained Word2Vec & FastText embeddings into embeddings folder via https://github.com/kexinhuang12345/clinicalBERT.
 
 * Run 05-Represent-Entities-With-Different-Embeddings.ipynb to convert medical entities into word representations.
 
