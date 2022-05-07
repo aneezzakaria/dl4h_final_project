@@ -14,7 +14,7 @@
 
 * Run 02-Select-SubClinicalNotes.ipynb to select subnotes based on criteria from all MIMIC-III Notes.
 
-* Run 03-Prprocess-Clinical-Notes.ipnyb to prepocessing notes.
+* Run 03-Preprocess-Clinical-Notes.ipnyb to prepocessing notes.
 
 * Run 04-Apply-med7-on-Clinical-Notes.ipynb to extract medical entities.
 
