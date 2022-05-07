@@ -6,7 +6,7 @@
 * Pre-processed Output - a preprocessed version of the input file from MIMIC-III with default parameters is available via gcp,
 [here](https://console.cloud.google.com/storage/browser/mimic_extract).To access this, you will need to be credentialed for MIMIC-III GCP access through physionet. Instructions for that are available [on physionet](https://mimic.physionet.org/gettingstarted/cloud/).
 
-* Copy the output file of MIMIC-Extract Pipeline named all_hourly_data.h5 to data folder.
+* Copy the pre processed output file from previous step named all_hourly_data.h5 to data folder.
 
 * Run 01-Extract-Timseries-Features.ipnyb to extract first 24 hours timeseries features from MIMIC-Extract raw data.
 
