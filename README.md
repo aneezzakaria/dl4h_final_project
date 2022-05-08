@@ -29,3 +29,12 @@
 * Run 08-Multimodal-Baseline.ipynb to run multimodal baseline to predict 4 different clinical tasks.
 
 * Run 09-Proposed-Model.ipynb to run proposed model to predict 4 different clinical tasks.
+
+## References
+
+* https://github.com/tanlab/ConvolutionMedicalNer
+
+* https://github.com/MLforHealth/MIMIC_Extract
+
+* Download Pre-trained Word2Vec & FastText embeddings: https://github.com/kexinhuang12345/clinicalBERT
+
